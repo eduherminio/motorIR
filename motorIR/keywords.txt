@@ -1,0 +1,14 @@
+motorIR			KEYWORD1
+NECIRrcv		KEYWORD1
+begin			KEYWORD2
+run				KEYWORD2
+validation		KEYWORD2
+selectFunction	KEYWORD2
+setActiveMotor	KEYWORD2
+selectMotor		KEYWORD2
+synchro			KEYWORD2
+set_PWM			KEYWORD2
+set_PWM_		KEYWORD2
+turn			KEYWORD2
+Motor_on		KEYWORD2
+
